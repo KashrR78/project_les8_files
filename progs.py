@@ -21,4 +21,4 @@ def interface():
             case 5: break
             case _: print("Неправильное число")    
     print("Программа завершена")
-interface()
+
